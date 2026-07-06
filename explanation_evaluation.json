@@ -1,0 +1,46 @@
+{
+  "person": "http://www.aifb.uni-karlsruhe.de/Personen/viewPersonOWL/id2069instance",
+  "predicted_class": "http://www.aifb.uni-karlsruhe.de/Forschungsgruppen/viewForschungsgruppeOWL/id1instance",
+  "top_features": [
+    {
+      "feature": "homepage -> None",
+      "shap_value": -0.019400607266087073
+    },
+    {
+      "feature": "phone -> ",
+      "shap_value": -0.019269015733372696
+    },
+    {
+      "feature": "publication -> id1272instance",
+      "shap_value": 0.01723430298272332
+    },
+    {
+      "feature": "author (incoming) -> id1272instance",
+      "shap_value": 0.015709470868385717
+    },
+    {
+      "feature": "isWorkedOnBy (incoming) -> id9instance",
+      "shap_value": -0.011524639578629377
+    },
+    {
+      "feature": "isWorkedOnBy (incoming) -> id79instance",
+      "shap_value": 0.008284354563087732
+    },
+    {
+      "feature": "fax -> +49 (721) 608 4548",
+      "shap_value": -0.007913743828719554
+    },
+    {
+      "feature": "worksAtProject -> id2instance",
+      "shap_value": 0.007624026328079402
+    },
+    {
+      "feature": "isWorkedOnBy (incoming) -> id13instance",
+      "shap_value": 0.007478615951853349
+    },
+    {
+      "feature": "member (incoming) -> id2instance",
+      "shap_value": 0.0068511838058965425
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "top_k": 5,
+    "num_test_instances": 54,
+    "fidelity": 0.5370370370370371,
+    "avg_explanation_size": 5.0,
+    "total_features": 500,
+    "sparsity": 0.99
+  },
+  {
+    "top_k": 10,
+    "num_test_instances": 54,
+    "fidelity": 0.5370370370370371,
+    "avg_explanation_size": 10.0,
+    "total_features": 500,
+    "sparsity": 0.98
+  },
+  {
+    "top_k": 20,
+    "num_test_instances": 54,
+    "fidelity": 0.5370370370370371,
+    "avg_explanation_size": 20.0,
+    "total_features": 500,
+    "sparsity": 0.96
+  },
+  {
+    "top_k": 50,
+    "num_test_instances": 54,
+    "fidelity": 0.5370370370370371,
+    "avg_explanation_size": 50.0,
+    "total_features": 500,
+    "sparsity": 0.9
+  },
+  {
+    "top_k": 100,
+    "num_test_instances": 54,
+    "fidelity": 0.5370370370370371,
+    "avg_explanation_size": 100.0,
+    "total_features": 500,
+    "sparsity": 0.8
+  }
+]
