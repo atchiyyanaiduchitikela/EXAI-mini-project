@@ -6,7 +6,7 @@
 
 **Instructor:** Dr. Stefan Heindorf
 
-**Author:** Atchiyya Naidu Chitikela:4064214
+**Author:** Atchiyya Naidu Chitikela(4064214)
 
 **Group:** 1 (individual submission)
 
@@ -181,7 +181,7 @@ mini-project/
 ## Contribution of team members
 
 This project was completed **individually** by a single author
-(**Atchiyya Naidu Chitikela**), responsible for all aspects: dataset
+(**Atchiyya Naidu Chitikela(4064214)**), responsible for all aspects: dataset
 analysis, RDF-to-tabular feature engineering, model training and
 evaluation, SHAP/surrogate-tree explanation implementation, and the
 final report.
