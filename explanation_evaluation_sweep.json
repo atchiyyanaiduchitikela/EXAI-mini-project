@@ -1,8 +1,0 @@
-{
-  "top_k": 100,
-  "num_test_instances": 54,
-  "fidelity": 0.5370370370370371,
-  "avg_explanation_size": 100.0,
-  "total_features": 500,
-  "sparsity": 0.8
-}
