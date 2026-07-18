@@ -1,0 +1,48 @@
+{
+  "person": "http://www.aifb.uni-karlsruhe.de/Personen/viewPersonOWL/id2069instance",
+  "person_label": "Markus Zaich (id2069instance)",
+  "predicted_class": "http://www.aifb.uni-karlsruhe.de/Forschungsgruppen/viewForschungsgruppeOWL/id1instance",
+  "predicted_class_label": "Business Information and Communication Systems (id1instance)",
+  "top_features": [
+    {
+      "feature": "homepage -> (missing value)",
+      "shap_value": -0.019400607266087073
+    },
+    {
+      "feature": "phone -> (missing value)",
+      "shap_value": -0.019269015733372696
+    },
+    {
+      "feature": "publication -> Ein Framework zur Modellierung und Analyse von XML-Netzen (id1272instance)",
+      "shap_value": 0.01723430298272332
+    },
+    {
+      "feature": "author (incoming) -> Ein Framework zur Modellierung und Analyse von XML-Netzen (id1272instance)",
+      "shap_value": 0.015709470868385717
+    },
+    {
+      "feature": "isWorkedOnBy (incoming) -> office information systems (id9instance)",
+      "shap_value": -0.011524639578629377
+    },
+    {
+      "feature": "isWorkedOnBy (incoming) -> semantic web (id79instance)",
+      "shap_value": 0.008284354563087732
+    },
+    {
+      "feature": "fax -> +49 (721) 608 4548",
+      "shap_value": -0.007913743828719554
+    },
+    {
+      "feature": "worksAtProject -> ISF - Intelligente Systeme im Finance (id2instance)",
+      "shap_value": 0.007624026328079402
+    },
+    {
+      "feature": "isWorkedOnBy (incoming) -> computational finance (id13instance)",
+      "shap_value": 0.007478615951853349
+    },
+    {
+      "feature": "member (incoming) -> ISF - Intelligente Systeme im Finance (id2instance)",
+      "shap_value": 0.0068511838058965425
+    }
+  ]
+}

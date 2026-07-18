@@ -1,0 +1,24 @@
+Fidelity to RF (train set): 0.772
+
+|--- isWorkedOnBy (incoming) -> semantic web (id79instance) <= 0.50
+|   |--- phone -> (missing value) <= 0.50
+|   |   |--- isWorkedOnBy (incoming) -> office information systems (id9instance) <= 0.50
+|   |   |   |--- fax -> +49 (721) 608 6580 <= 0.50
+|   |   |   |   |--- class: Efficient Algorithms (id2instance)
+|   |   |   |--- fax -> +49 (721) 608 6580 >  0.50
+|   |   |   |   |--- class: Knowledge Management (id3instance)
+|   |   |--- isWorkedOnBy (incoming) -> office information systems (id9instance) >  0.50
+|   |   |   |--- author (incoming) -> Ontology-Based Query Refinement for Semantic Portals (id864instance) <= 0.50
+|   |   |   |   |--- class: Business Information and Communication Systems (id1instance)
+|   |   |   |--- author (incoming) -> Ontology-Based Query Refinement for Semantic Portals (id864instance) >  0.50
+|   |   |   |   |--- class: Knowledge Management (id3instance)
+|   |--- phone -> (missing value) >  0.50
+|   |   |--- isWorkedOnBy (incoming) -> Artificial Intelligence (id55instance) <= 0.50
+|   |   |   |--- member (incoming) -> ISF - Intelligente Systeme im Finance (id2instance) <= 0.50
+|   |   |   |   |--- class: Business Information and Communication Systems (id1instance)
+|   |   |   |--- member (incoming) -> ISF - Intelligente Systeme im Finance (id2instance) >  0.50
+|   |   |   |   |--- class: Complexity Management (id4instance)
+|   |   |--- isWorkedOnBy (incoming) -> Artificial Intelligence (id55instance) >  0.50
+|   |   |   |--- class: Complexity Management (id4instance)
+|--- isWorkedOnBy (incoming) -> semantic web (id79instance) >  0.50
+|   |--- class: Knowledge Management (id3instance)
