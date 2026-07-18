@@ -1,9 +1,13 @@
 # Explaining Predictions on the AIFB Knowledge Graph
 
 **Course:** Explainable Artificial Intelligence — Summer Term 2026
+
 **University:** Paderborn University
+
 **Instructor:** Dr. Stefan Heindorf
+
 **Author:** Atchiyya Naidu Chitikela:4064214
+
 **Group:** 1 (individual submission)
 
 **Test Accuracy (AIFB, held-out test set): 77.8%**
